@@ -5,7 +5,7 @@ description: "This is the page where you fart all day"
 icon: "article"
 date: "2026-01-28T20:37:28-05:00"
 lastmod: "2026-01-28T20:37:28-05:00"
-draft: true
+draft: false
 toc: true
 ---
 
