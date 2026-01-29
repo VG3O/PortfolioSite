@@ -12,6 +12,9 @@ enableEmoji = true
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
 
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
 [markup]
     [markup.tableOfContents]
       endLevel = 3
