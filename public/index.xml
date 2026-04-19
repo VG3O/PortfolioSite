@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on </title>
+    <title>Home on VG</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on </description>
+    <description>Recent content in Home on VG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vg30.rblx@gmail.com (Brandon Salvietti)</managingEditor>
@@ -22,33 +22,23 @@
     </item>
     
     <item>
-      <title>Sample Piece</title>
-      <link>http://localhost:1313/portfolio/sample-piece/</link>
+      <title>Tweener</title>
+      <link>http://localhost:1313/portfolio/choochoo/tweener/</link>
       <pubDate>Thu, 29 Jan 2026 00:29:31 -0500</pubDate>
       <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
-      <guid>http://localhost:1313/portfolio/sample-piece/</guid>
-      <description>Placeholder text for a sample project in my portfolio</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/sample-piece/featured.png" />
+      <guid>http://localhost:1313/portfolio/choochoo/tweener/</guid>
+      <description>A simple and performant tweening library built in Unity.</description>
+      
     </item>
     
     <item>
-      <title>Sample Piece 2</title>
-      <link>http://localhost:1313/portfolio/sample-piece2/</link>
+      <title>Vehicle System</title>
+      <link>http://localhost:1313/portfolio/swfl/vehicle-system/</link>
       <pubDate>Thu, 29 Jan 2026 00:29:31 -0500</pubDate>
       <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
-      <guid>http://localhost:1313/portfolio/sample-piece2/</guid>
-      <description>Some more sample text in a different project within my portfolio</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/sample-piece2/featured.png" />
-    </item>
-    
-    <item>
-      <title>Sample Piece 3</title>
-      <link>http://localhost:1313/portfolio/sample-piece3/</link>
-      <pubDate>Thu, 29 Jan 2026 00:29:31 -0500</pubDate>
-      <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
-      <guid>http://localhost:1313/portfolio/sample-piece3/</guid>
-      <description>The third summary text for this portfolio sample project</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/sample-piece3/featured.png" />
+      <guid>http://localhost:1313/portfolio/swfl/vehicle-system/</guid>
+      <description>A standalone fork of a constraint-based vehicle system built for Roblox.</description>
+      
     </item>
     
   </channel>

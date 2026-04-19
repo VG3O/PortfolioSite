@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "VG"
 
 [params]
   displayName = "EN"
@@ -19,7 +19,7 @@ title = ""
   email = "vg30.rblx@gmail.com"
   image = "img/vg_images/icon.jpg"
   imageQuality = 96
-  headline = "Programmer | C++ | Luau | C# .NET | Python | SQL"
+  headline = "Programmer | C++ | Luau | C# | Python | SQL"
   bio = ""
   links = [
 #     { email = "mailto:hello@your_domain.com" },

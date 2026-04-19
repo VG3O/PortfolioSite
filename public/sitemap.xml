@@ -15,19 +15,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/sample-piece/</loc>
+    <loc>http://localhost:1313/portfolio/choochoo/</loc>
     <lastmod>2026-01-29T00:29:31-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/sample-piece2/</loc>
+    <loc>http://localhost:1313/portfolio/swfl/</loc>
     <lastmod>2026-01-29T00:29:31-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/sample-piece3/</loc>
+    <loc>http://localhost:1313/portfolio/choochoo/tweener/</loc>
+    <lastmod>2026-01-29T00:29:31-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/swfl/vehicle-system/</loc>
     <lastmod>2026-01-29T00:29:31-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

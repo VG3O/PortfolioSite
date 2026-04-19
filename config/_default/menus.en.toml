@@ -12,18 +12,23 @@
 
 [[main]]
  name = "Portfolio"
- pageRef = "portfolio/_index"
+ pageRef = "portfolio/"
  weight = 1
+
+# [[main]]
+#  name = "Choo Choo Boom Boom"
+#  pageRef = "portfolio/choochoo"
+#  parent = "Portfolio"
 
 # Documentation
 [[main]]
     name = "Documentation"
-    pageRef = "docs/_index"
+    pageRef = "docs/"
     weight = 15
 
 [[main]]
     name = "Tweener"
-    pageRef = "docs/tweener/_index"
+    pageRef = "docs/tweener/"
     parent = "Documentation"
 
 # Personal
