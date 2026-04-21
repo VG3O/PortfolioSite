@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Southwest Florida on VG</title>
+    <link>http://localhost:1313/portfolio/swfl/</link>
+    <description>Recent content in Southwest Florida on VG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vg30.rblx@gmail.com (Brandon Salvietti)</managingEditor>
+    <webMaster>vg30.rblx@gmail.com (Brandon Salvietti)</webMaster>
+    <copyright>© 2026 Brandon Salvietti</copyright>
+    <lastBuildDate>Thu, 29 Jan 2026 00:29:31 -0500</lastBuildDate><atom:link href="http://localhost:1313/portfolio/swfl/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vehicle System</title>
+      <link>http://localhost:1313/portfolio/swfl/vehicle-system/</link>
+      <pubDate>Thu, 29 Jan 2026 00:29:31 -0500</pubDate>
+      <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
+      <guid>http://localhost:1313/portfolio/swfl/vehicle-system/</guid>
+      <description>A standalone fork of a constraint-based vehicle system built for Roblox.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

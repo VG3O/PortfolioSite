@@ -25,7 +25,8 @@ disableImageOptimizationMD = false
 disableTextInHeader = true
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/vg_images/speed.gif" # used as default for background images
+# defaultBackgroundImage = "img/vg_images/speed.gif" # used as default for background images
+defaultBackgroundVideo = "img/vg_images/Video.mp4" # overrides default background image if present, will NOT override featured and background
 # defaultFeaturedImage = "img/vg_images/icon.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
