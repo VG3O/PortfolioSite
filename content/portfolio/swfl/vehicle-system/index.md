@@ -4,8 +4,7 @@ draft = false
 title = 'Vehicle System'
 summary = "A standalone fork of a constraint-based vehicle system built for Roblox."
 showDate = false
-featured = true
+featured = false
 showReadingTime = false
 +++
-
-Some text here describing this part of my portfolio
+Placeholder until i can get stuff in here

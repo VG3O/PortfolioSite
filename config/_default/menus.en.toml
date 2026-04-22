@@ -34,7 +34,7 @@
 # Personal
 [[main]]
     name = "Blog"
-    pageRef = "blog/hub"
+    pageRef = "blog/"
 
 [[main]]
     name = "About"
