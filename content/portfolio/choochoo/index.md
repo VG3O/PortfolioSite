@@ -1,10 +1,11 @@
 +++
-date = '2026-01-29T00:29:31-05:00'
+date = '2026-04-29T00:29:31-05:00'
 draft = false
 title = 'Choo Choo Boom Boom'
 summary = "An on-rails shooter where you are the gunner for a rag-tag military operation to stop a mysterious entity known only as The Hand."
 featured = true
-showDate = false
+showDate = true
+lastmod = '2026-05-01T00:29:31-05:00'
 showReadingTime = false
 +++
 
@@ -25,4 +26,4 @@ Our team had conceptualized other ideas early on the development process for thi
 
 The game will be releasing on Steam on **May 1st**, and is participating in the annual [Game Studio Senior Show](https://seniorshow.champlain.edu/)!
 
-### Below are some articles detailing specific works that stemmed from this project:
+Will update this page with specific things I worked on for this project when I can.

@@ -9,7 +9,47 @@
     <managingEditor>vg30.rblx@gmail.com (Brandon Salvietti)</managingEditor>
     <webMaster>vg30.rblx@gmail.com (Brandon Salvietti)</webMaster>
     <copyright>© 2026 Brandon Salvietti</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 00:29:31 -0500</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Choo Choo Boom Boom</title>
+      <link>http://localhost:1313/portfolio/choochoo/</link>
+      <pubDate>Wed, 29 Apr 2026 00:29:31 -0500</pubDate>
+      <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
+      <guid>http://localhost:1313/portfolio/choochoo/</guid>
+      <description>An on-rails shooter where you are the gunner for a rag-tag military operation to stop a mysterious entity known only as The Hand.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/choochoo/featured.png" />
+    </item>
+    
+    <item>
+      <title>VChassis</title>
+      <link>http://localhost:1313/portfolio/raycastvehicle/</link>
+      <pubDate>Fri, 24 Apr 2026 00:29:31 -0500</pubDate>
+      <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
+      <guid>http://localhost:1313/portfolio/raycastvehicle/</guid>
+      <description>Raycast-based vehicle system built for Unity.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tweener</title>
+      <link>http://localhost:1313/portfolio/tweener/</link>
+      <pubDate>Thu, 23 Apr 2026 00:29:31 -0500</pubDate>
+      <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
+      <guid>http://localhost:1313/portfolio/tweener/</guid>
+      <description>A simple and performant tweening library built in Unity.</description>
+      
+    </item>
+    
+    <item>
+      <title>Aero Engine</title>
+      <link>http://localhost:1313/portfolio/engineimpl/</link>
+      <pubDate>Wed, 22 Apr 2026 00:29:31 -0500</pubDate>
+      <author>vg30.rblx@gmail.com (Brandon Salvietti)</author>
+      <guid>http://localhost:1313/portfolio/engineimpl/</guid>
+      <description>A raylib based game engine that allows for Lua scripting.</description>
+      
+    </item>
     
   </channel>
 </rss>
