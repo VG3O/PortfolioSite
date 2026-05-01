@@ -8,6 +8,10 @@ showWordCount = false
 showBreadcrumbs = false
 showReadingTime = false
 +++
+## CONTACT INFORMATION
+### {{< icon "envelope" >}} [contact@vg3o.dev](mailto:contact@vg3o.dev)
+### {{< icon "discord" >}} vg3o
+### {{< icon "phone">}} (440) 678-7027
 
 <div style="display: flex; align-items: flex-start; gap: 3rem;">
     <img src="me.jpg" style="width: 100%; max-width: 400px; flex-shrink: 0;"/> 

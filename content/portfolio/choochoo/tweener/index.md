@@ -7,5 +7,3 @@ showDate = false
 showReadingTime = false
 featured = false
 +++
-
-placeholder until i can get stuff in here

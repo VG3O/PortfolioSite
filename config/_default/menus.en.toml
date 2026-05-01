@@ -21,15 +21,15 @@
 #  parent = "Portfolio"
 
 # Documentation
-[[main]]
-    name = "Documentation"
-    pageRef = "docs/"
-    weight = 15
+# [[main]]
+#     name = "Documentation"
+#     pageRef = "docs/"
+#     weight = 15
 
-[[main]]
-    name = "Tweener"
-    pageRef = "docs/tweener/"
-    parent = "Documentation"
+# [[main]]
+#     name = "Tweener"
+#     pageRef = "docs/tweener/"
+#     parent = "Documentation"
 
 # Personal
 [[main]]
@@ -37,8 +37,9 @@
     pageRef = "blog/"
 
 [[main]]
-    name = "About"
+    name = "About & Contact"
     pageRef = "about/_index"
+
 
 #[[main]]
 #  name = "Parent"
